@@ -1,1 +1,46 @@
 /* Codul tau CSS aici */
+body {
+border-radius: 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+/* height:  */
+background-color: #FFFFFF;
+/* font-family: */
+
+
+}
+
+ul > li {
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+}
+
+
+#submit-btn {
+    background-color:#017BFB;
+}
+
+#new-question-btn {
+    background-color:#DAA523;
+
+}
+
+#submit-btn, #new-question-btn {
+    
+    border: none;
+    padding: 10px;
+    color: white;
+
+}
+
+#result-container{
+    color: #0C8013;
+}
+
+#explanation-container{
+    color: gray;
+}
